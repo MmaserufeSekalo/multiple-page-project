@@ -1,0 +1,11 @@
+body {
+  background-color: antiquewhite;
+  color: rgba(109, 24, 24, 0.767);
+}
+img {
+  max-width: 300px;
+
+}
+.container {
+  text-align: center;
+}
